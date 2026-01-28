@@ -19,6 +19,7 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 7 | Dummy Systemd Service | ✅ Done | [dummy-systemd-service](https://github.com/amirkurniawan/dummy-systemd-service) |
 | 8 | Basic DNS Setup | 🔲 Todo | - |
 | 9 | Simple Monitoring | ✅ Done | [simple-monitoring](https://github.com/amirkurniawan/simple-monitoring) |
+| 8 | Basic Dockerfile | ✅ Done | [basic-dockerfile](https://github.com/amirkurniawan/basic-dockerfile) |
 | 10 | Dockerized Service | 🔲 Todo | - |
 | 11 | Multi-Container Application | 🔲 Todo | - |
 | 12 | Configuration Management | 🔲 Todo | - |
