@@ -14,7 +14,7 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 2 | Log Archive Tool | ✅ Done | [log-archive](https://github.com/amirkurniawan/log-archive-tool) |
 | 3 | Nginx Log Analyser | ✅ Done | [nginx-log-analyser](https://github.com/amirkurniawan/nginx-log-analyser) |
 | 4 | GitHub Pages Deployment | 🔲 Todo | - |
-| 5 | SSH Remote Server Setup | 🔲 Todo | - |
+| 5 | SSH Remote Server Setup | ✅ Done | [ssh-remote-server-setup](https://github.com/amirkurniawan/ssh-remote-server-setup) |
 | 6 | Static Site Server | 🔲 Todo | - |
 | 7 | Basic DNS Setup | 🔲 Todo | - |
 | 8 | Simple Monitoring | 🔲 Todo | - |
