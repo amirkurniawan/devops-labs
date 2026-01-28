@@ -16,15 +16,16 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 4 | GitHub Pages Deployment | 🔲 Todo | - |
 | 5 | SSH Remote Server Setup | ✅ Done | [ssh-remote-server-setup](https://github.com/amirkurniawan/ssh-remote-server-setup) |
 | 6 | Static Site Server | ✅ Done | [static-site-server](https://github.com/amirkurniawan/static-site-server) |
-| 7 | Basic DNS Setup | 🔲 Todo | - |
-| 8 | Simple Monitoring | ✅ Done | [simple-monitoring](https://github.com/amirkurniawan/simple-monitoring) |
-| 9 | Dockerized Service | 🔲 Todo | - |
-| 10 | Multi-Container Application | 🔲 Todo | - |
-| 11 | Configuration Management | 🔲 Todo | - |
-| 12 | IaC on DigitalOcean | 🔲 Todo | - |
-| 13 | Node.js Deployment | 🔲 Todo | - |
-| 14 | CI/CD Pipeline | 🔲 Todo | - |
-| 15 | Prometheus & Grafana | 🔲 Todo | - |
+| 7 | Dummy Systemd Service | ✅ Done | [dummy-systemd-service](https://github.com/amirkurniawan/dummy-systemd-service) |
+| 8 | Basic DNS Setup | 🔲 Todo | - |
+| 9 | Simple Monitoring | ✅ Done | [simple-monitoring](https://github.com/amirkurniawan/simple-monitoring) |
+| 10 | Dockerized Service | 🔲 Todo | - |
+| 11 | Multi-Container Application | 🔲 Todo | - |
+| 12 | Configuration Management | 🔲 Todo | - |
+| 13 | IaC on DigitalOcean | 🔲 Todo | - |
+| 14 | Node.js Deployment | 🔲 Todo | - |
+| 15 | CI/CD Pipeline | 🔲 Todo | - |
+| 16 | Prometheus & Grafana | 🔲 Todo | - |
 
 > Project list based on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
 
