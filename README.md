@@ -11,7 +11,7 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | # | Project | Status | Repository |
 |---|---------|--------|------------|
 | 1 | Server Performance Stats | ✅ Done | [server-stats](https://github.com/amirkurniawan/server-stats) |
-| 2 | Log Archive Tool | ✅ Done | (https://github.com/amirkurniawan/log-archive-tool) |
+| 2 | Log Archive Tool | ✅ Done | [log-archive](https://github.com/amirkurniawan/log-archive-tool) |
 | 3 | Nginx Log Analyser | 🔲 Todo | - |
 | 4 | GitHub Pages Deployment | 🔲 Todo | - |
 | 5 | SSH Remote Server Setup | 🔲 Todo | - |
