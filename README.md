@@ -17,7 +17,7 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 5 | SSH Remote Server Setup | ✅ Done | [ssh-remote-server-setup](https://github.com/amirkurniawan/ssh-remote-server-setup) |
 | 6 | Static Site Server | ✅ Done | [static-site-server](https://github.com/amirkurniawan/static-site-server) |
 | 7 | Basic DNS Setup | 🔲 Todo | - |
-| 8 | Simple Monitoring | ✅ Done | [Simple Monitoring](https://github.com/amirkurniawan/simple-monitoring) |
+| 8 | Simple Monitoring | ✅ Done | [simple-monitoring](https://github.com/amirkurniawan/simple-monitoring) |
 | 9 | Dockerized Service | 🔲 Todo | - |
 | 10 | Multi-Container Application | 🔲 Todo | - |
 | 11 | Configuration Management | 🔲 Todo | - |
