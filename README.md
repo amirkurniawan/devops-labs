@@ -20,13 +20,14 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 8 | Basic DNS Setup | 🔲 Todo | - |
 | 9 | Simple Monitoring | ✅ Done | [simple-monitoring](https://github.com/amirkurniawan/simple-monitoring) |
 | 10 | Basic Dockerfile | ✅ Done | [basic-dockerfile](https://github.com/amirkurniawan/basic-dockerfile) |
-| 11 | Dockerized Service | 🔲 Todo | - |
-| 12 | Multi-Container Application | 🔲 Todo | - |
-| 13 | Configuration Management | 🔲 Todo | - |
-| 14 | IaC on DigitalOcean | 🔲 Todo | - |
-| 15 | Node.js Deployment | 🔲 Todo | - |
-| 16 | CI/CD Pipeline | 🔲 Todo | - |
-| 17 | Prometheus & Grafana | 🔲 Todo | - |
+| 11 | Cloudflare Tunnel | ✅ Done | [cloudflare-tunnel-guide](https://github.com/amirkurniawan/cloudflare-tunnel-guide) |
+| 12 | Dockerized Service | 🔲 Todo | - |
+| 13 | Multi-Container Application | 🔲 Todo | - |
+| 14 | Configuration Management | 🔲 Todo | - |
+| 15 | IaC on DigitalOcean | 🔲 Todo | - |
+| 16 | Node.js Deployment | 🔲 Todo | - |
+| 17 | CI/CD Pipeline | 🔲 Todo | - |
+| 18 | Prometheus & Grafana | 🔲 Todo | - |
 
 > Project list based on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
 
