@@ -21,13 +21,14 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 9 | Simple Monitoring | ✅ Done | [simple-monitoring](https://github.com/amirkurniawan/simple-monitoring) |
 | 10 | Basic Dockerfile | ✅ Done | [basic-dockerfile](https://github.com/amirkurniawan/basic-dockerfile) |
 | 11 | Cloudflare Tunnel | ✅ Done | [cloudflare-tunnel-guide](https://github.com/amirkurniawan/cloudflare-tunnel-guide) |
-| 12 | Dockerized Service | 🔲 Todo | - |
-| 13 | Multi-Container Application | 🔲 Todo | - |
-| 14 | Configuration Management | 🔲 Todo | - |
-| 15 | IaC on DigitalOcean | 🔲 Todo | - |
-| 16 | Node.js Deployment | 🔲 Todo | - |
-| 17 | CI/CD Pipeline | 🔲 Todo | - |
-| 18 | Prometheus & Grafana | 🔲 Todo | - |
+| 12 | Pomodoro Timer | ✅ Done | [pomodoro-timer](https://github.com/amirkurniawan/pomodoro-timer) |
+| 13 | Dockerized Service | 🔲 Todo | - |
+| 14 | Multi-Container Application | 🔲 Todo | - |
+| 15 | Configuration Management | 🔲 Todo | - |
+| 16 | IaC on DigitalOcean | 🔲 Todo | - |
+| 17 | Node.js Deployment | 🔲 Todo | - |
+| 18 | CI/CD Pipeline | 🔲 Todo | - |
+| 19 | Prometheus & Grafana | 🔲 Todo | - |
 
 > Project list based on [roadmap.sh/devops/projects](https://roadmap.sh/devops/projects)
 
