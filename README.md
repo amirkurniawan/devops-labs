@@ -24,7 +24,7 @@ Repository ini berisi kumpulan project yang saya kerjakan untuk membangun skill 
 | 12 | Pomodoro Timer | ✅ Done | [pomodoro-timer](https://github.com/amirkurniawan/pomodoro-timer) |
 | 13 | Dockerized Service | 🔲 Todo | - |
 | 14 | Multi-Container Application | 🔲 Todo | - |
-| 15 | Configuration Management | 🔲 Todo | - |
+| 15 | Configuration Management | ✅ Done| [ansible-server-setup](https://github.com/amirkurniawan/ansible-server-setup) |
 | 16 | IaC on DigitalOcean | 🔲 Todo | - |
 | 17 | Node.js Deployment | 🔲 Todo | - |
 | 18 | CI/CD Pipeline | 🔲 Todo | - |
